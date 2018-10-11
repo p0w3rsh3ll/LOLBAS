@@ -1,7 +1,10 @@
+## PROJECT MOVED TO A DEDICATED PROJECT SITE. THIS SITE WILL NOT BE UPDATE ANYMORE BUT WILL BE KEPT FOR HISTORICAL REASONS.
+New site: https://github.com/LOLBAS-Project/LOLBAS
+
 # LOLBins - Living Off The Land Binaries
 Please contribute and do point out errors or resources I have forgotten.
 If you are missing from the acknowledgement, please let me know (I did not forget anyone on purpose).    
-    
+<img src="https://github.com/api0cradle/LOLBAS/raw/master/Logo/LOLBin.png" height="150">
    
 # OS BINARIES
 [Atbroker.exe](OSBinaries/Atbroker.md)    
@@ -15,6 +18,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Cscript.exe](OSBinaries/Cscript.md)    
 [Dfsvc.exe](OSBinaries/Dfsvc.md)     
 [Diskshadow.exe](OSBinaries/Diskshadow.md)     
+[Dnscmd.exe](OSBinaries/Dnscmd.md)     
 [Esentutl.exe](OSBinaries/Esentutl.md)     
 [Extexport.exe](OSBinaries/Extexport.md)     
 [Extrac32.exe](OSBinaries/Extrac32.md)     
@@ -25,7 +29,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Gpscript.exe](OSBinaries/Gpscript.md)        
 [Hh.exe](OSBinaries/Hh.md)    
 [Ieexec.exe](OSBinaries/Ieexec.md)     
-[Ie4unit.exe](OSBinaries/Ie4unit.md)     
+[Ie4uinit.exe](OSBinaries/Ie4uinit.md)     
 [Infdefaultinstall.exe](OSBinaries/Infdefaultinstall.md)    
 [Installutil.exe](OSBinaries/Installutil.md)      
 [Makecab.exe](OSBinaries/Makecab.md)      
@@ -45,12 +49,10 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Presentationhost.exe](OSBinaries/Presentationhost.md)     
 [Print.exe](OSBinaries/Print.md)  
 [Psr.exe](OSBinaries/Psr.md)  
-[Qprocess.exe](OSBinaries/Qprocess.md)     
 [Reg.exe](OSBinaries/Reg.md)    
 [Regedit.exe](OSBinaries/Regedit.md)    
 [Regasm.exe](OSBinaries/Regasm.md)    
 [Register-cimprovider.exe](OSBinaries/Register-cimprovider.md)        
-[Regini.exe](OSBinaries/Regini.md)    
 [Regsvcs.exe](OSBinaries/Regsvcs.md)    
 [Regsvr32.exe](OSBinaries/Regsvr32.md)    
 [Replace.exe](OSBinaries/Replace.md)     
@@ -62,6 +64,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Sc.exe](OSBinaries/Sc.md)     
 [Scriptrunner.exe](OSBinaries/Scriptrunner.md)     
 [Syncappvpublishingserver.exe](OSBinaries/Syncappvpublishingserver.md)     
+[Wab.exe](OSBinaries/Wab.md)     
 [Wmic.exe](OSBinaries/Wmic.md)     
 [Wscript.exe](OSBinaries/Wscript.md)    
 [Xwizard.exe](OSBinaries/Xwizard.md)     
@@ -76,6 +79,7 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 [Dnx.exe](OtherMSBinaries/Dnx.md)   
 [Dxcap.exe](OtherMSBinaries/Dxcap.md)   
 [Mftrace.exe](OtherMSBinaries/Mftrace.md)     
+[Msdeploy.exe](OtherMSBinaries/Msdeploy.md)     
 [Msxsl.exe](OtherMSBinaries/Msxsl.md)    
 [Rcsi.exe](OtherMSBinaries/Rcsi.md)     
 [Sqldumper.exe](OtherMSBinaries/Sqldumper.md)     
@@ -89,8 +93,13 @@ If you are missing from the acknowledgement, please let me know (I did not forge
 
 
 # OTHER NON MICROSOFT BINARIES
+[AcroRd32.exe](OtherBinaries/AcroRd32.md)    
+[Gpup.exe](OtherBinaries/Gpup.md)    
+[Nlnotes.exe](OtherBinaries/Nlnotes.md)     
+[Notes.exe](OtherBinaries/Notes.md)     
 [Nvuhda6.exe](OtherBinaries/Nvuhda6.md)     
 [Nvudisp.exe](OtherBinaries/Nvudisp.md)    
- 
-
-
+[VBoxDrvInst.exe](OtherBinaries/VBoxDrvInst.md)     
+[Usbinst.exe](OtherBinaries/Usbinst.md)     
+[ROCCAT_Swarm.exe](OtherBinaries/ROCCAT_Swarm.md)     
+[Setup.exe](OtherBinaries/Setup.md) - Launches HP Installer for HP LaserJet Enterprise 700 color MFP M775 Printer Series Full Software and Drivers    
